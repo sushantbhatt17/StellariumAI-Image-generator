@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-
+const {VITE_BACKEND_URL} = import.meta.env;
 import { Card, FormField, Loader } from '../components';
 
 const RenderCards = ({ data, title }) => {
@@ -26,7 +26,7 @@ const Home = () => {
     setLoading(true);
 
     try {
-      const response = await fetch('http://localhost:5000/api/v1/post', {
+      const response = await fetch(VITE_BACKEND_URL+ '/api/v1/post', {
         method: 'GET',
         headers: {
           'Content-Type': 'application/json',
