@@ -1,1 +1,3 @@
+StellariumAI is an end-to-end AI-powered image generation platform that allows users to create good-quality, expressive images from natural language prompts. I built the application using the MERN stack, where the backend connects with an AI model (via Pollination AI) to process prompts and generate high-quality images.
+The frontend is developed in React with Tailwind CSS for a smooth interface, and Cloudinary is used to store and optimize the generated images. This system supports prompt input, image generation, storage, and easy downloading or sharing. I use MongoDB to store user prompts and generation history, while the Node.js backend handles API requests and communication with the AI model.
 
