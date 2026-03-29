@@ -85,9 +85,9 @@ It is a **full-stack MERN application** that allows users to create, explore, an
 
 ## 👨‍💻 About Me
 
-Hi 👋 I'm **Sai Vamsi**, a final-year Computer Science student specializing in Artificial Intelligence.
+Hi 👋 I'm *Sushnat Bhatt*, a final-year Computer Science student specializing in Artificial Intelligence.
 
-- Skilled in C, C++, Java, Python  
+- Skilled in C++, Java, Python  
 - Strong in Data Structures & Algorithms  
 - MERN Stack Developer  
 - Passionate about AI and Software Development  
